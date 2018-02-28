@@ -1,2 +1,2 @@
-# parse_csv
-To read from db exports and write to new files for import....
+# csv_formatter
+Used to process csv file for import into hr field for Odoo
