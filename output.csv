@@ -1,0 +1,775 @@
+Name,State,state_id/id
+Abadam,Borno,__export__.res_country_state_653
+Abaji,FCT,__export__.res_country_state_660
+Abak,Akwa Ibom,__export__.res_country_state_648
+Abakaliki,Ebonyi,__export__.res_country_state_656
+Aba North,Abia,__export__.res_country_state_646
+Aba South,Abia,__export__.res_country_state_646
+Abeokuta North,Ogun,__export__.res_country_state_673
+Abeokuta South,Ogun,__export__.res_country_state_673
+Abi,Cross River,__export__.res_country_state_654
+Aboh Mbaise,Imo,__export__.res_country_state_662
+Abua/Odual,Rivers,__export__.res_country_state_678
+Adavi,Kogi,__export__.res_country_state_668
+Ado Ekiti,Ekiti,__export__.res_country_state_658
+Ado-Odo/Ota,Ogun,__export__.res_country_state_673
+Afijio,Oyo,__export__.res_country_state_676
+Afikpo North,Ebonyi,__export__.res_country_state_656
+Afikpo South,Ebonyi,__export__.res_country_state_656
+Agaie,Niger,__export__.res_country_state_672
+Agatu,Benue,__export__.res_country_state_652
+Agwara,Niger,__export__.res_country_state_672
+Agege,Lagos,__export__.res_country_state_670
+Aguata,Anambra,__export__.res_country_state_649
+Ahiazu Mbaise,Imo,__export__.res_country_state_662
+Ahoada East,Rivers,__export__.res_country_state_678
+Ahoada West,Rivers,__export__.res_country_state_678
+Ajaokuta,Kogi,__export__.res_country_state_668
+Ajeromi-Ifelodun,Lagos,__export__.res_country_state_670
+Ajingi,Kano,__export__.res_country_state_665
+Akamkpa,Cross River,__export__.res_country_state_654
+Akinyele,Oyo,__export__.res_country_state_676
+Akko,Gombe,__export__.res_country_state_661
+Akoko-Edo,Edo,__export__.res_country_state_657
+Akoko North-East,Ondo,__export__.res_country_state_674
+Akoko North-West,Ondo,__export__.res_country_state_674
+Akoko South-West,Ondo,__export__.res_country_state_674
+Akoko South-East,Ondo,__export__.res_country_state_674
+Akpabuyo,Cross River,__export__.res_country_state_654
+Akuku-Toru,Rivers,__export__.res_country_state_678
+Akure North,Ondo,__export__.res_country_state_674
+Akure South,Ondo,__export__.res_country_state_674
+Akwanga,Nasarawa,__export__.res_country_state_671
+Albasu,Kano,__export__.res_country_state_665
+Aleiro,Kebbi,__export__.res_country_state_667
+Alimosho,Lagos,__export__.res_country_state_670
+Alkaleri,Bauchi,__export__.res_country_state_650
+Amuwo-Odofin,Lagos,__export__.res_country_state_670
+Anambra East,Anambra,__export__.res_country_state_649
+Anambra West,Anambra,__export__.res_country_state_649
+Anaocha,Anambra,__export__.res_country_state_649
+Andoni,Rivers,__export__.res_country_state_678
+Aninri,Enugu,__export__.res_country_state_659
+Aniocha North,Delta,__export__.res_country_state_655
+Aniocha South,Delta,__export__.res_country_state_655
+Anka,Zamfara,__export__.res_country_state_682
+Ankpa,Kogi,__export__.res_country_state_668
+Apa,Benue,__export__.res_country_state_652
+Apapa,Lagos,__export__.res_country_state_670
+Ado,Benue,__export__.res_country_state_652
+Ardo Kola,Taraba,__export__.res_country_state_680
+Arewa Dandi,Kebbi,__export__.res_country_state_667
+Argungu,Kebbi,__export__.res_country_state_667
+Arochukwu,Abia,__export__.res_country_state_646
+Asa,Kwara,__export__.res_country_state_669
+Asari-Toru,Rivers,__export__.res_country_state_678
+Askira/Uba,Borno,__export__.res_country_state_653
+Atakunmosa East,Osun,__export__.res_country_state_675
+Atakunmosa West,Osun,__export__.res_country_state_675
+Atiba,Oyo,__export__.res_country_state_676
+Atisbo,Oyo,__export__.res_country_state_676
+Augie,Kebbi,__export__.res_country_state_667
+Auyo,Jigawa,__export__.res_country_state_663
+Awe,Nasarawa,__export__.res_country_state_671
+Awgu,Enugu,__export__.res_country_state_659
+Awka North,Anambra,__export__.res_country_state_649
+Awka South,Anambra,__export__.res_country_state_649
+Ayamelum,Anambra,__export__.res_country_state_649
+Aiyedaade,Osun,__export__.res_country_state_675
+Aiyedire,Osun,__export__.res_country_state_675
+Babura,Jigawa,__export__.res_country_state_663
+Badagry,Lagos,__export__.res_country_state_670
+Bagudo,Kebbi,__export__.res_country_state_667
+Bagwai,Kano,__export__.res_country_state_665
+Bakassi,Cross River,__export__.res_country_state_654
+Bokkos,Plateau,__export__.res_country_state_677
+Bakori,Katsina,__export__.res_country_state_666
+Bakura,Zamfara,__export__.res_country_state_682
+Balanga,Gombe,__export__.res_country_state_661
+Bali,Taraba,__export__.res_country_state_680
+Bama,Borno,__export__.res_country_state_653
+Bade,Yobe,__export__.res_country_state_681
+Barkin Ladi,Plateau,__export__.res_country_state_677
+Baruten,Kwara,__export__.res_country_state_669
+Bassa,Kogi,__export__.res_country_state_668
+Bassa,Plateau,__export__.res_country_state_677
+Batagarawa,Katsina,__export__.res_country_state_666
+Batsari,Katsina,__export__.res_country_state_666
+Bauchi,Bauchi,__export__.res_country_state_650
+Baure,Katsina,__export__.res_country_state_666
+Bayo,Borno,__export__.res_country_state_653
+Bebeji,Kano,__export__.res_country_state_665
+Bekwarra,Cross River,__export__.res_country_state_654
+Bende,Abia,__export__.res_country_state_646
+Biase,Cross River,__export__.res_country_state_654
+Bichi,Kano,__export__.res_country_state_665
+Bida,Niger,__export__.res_country_state_672
+Billiri,Gombe,__export__.res_country_state_661
+Bindawa,Katsina,__export__.res_country_state_666
+Binji,Sokoto,__export__.res_country_state_679
+Biriniwa,Jigawa,__export__.res_country_state_663
+Birnin Gwari,Kaduna,__export__.res_country_state_664
+Birnin Kebbi,Kebbi,__export__.res_country_state_667
+Birnin Kudu,Jigawa,__export__.res_country_state_663
+Birnin Magaji/Kiyaw,Zamfara,__export__.res_country_state_682
+Biu,Borno,__export__.res_country_state_653
+Bodinga,Sokoto,__export__.res_country_state_679
+Bogoro,Bauchi,__export__.res_country_state_650
+Boki,Cross River,__export__.res_country_state_654
+Boluwaduro,Osun,__export__.res_country_state_675
+Bomadi,Delta,__export__.res_country_state_655
+Bonny,Rivers,__export__.res_country_state_678
+Borgu,Niger,__export__.res_country_state_672
+Boripe,Osun,__export__.res_country_state_675
+Bursari,Yobe,__export__.res_country_state_681
+Bosso,Niger,__export__.res_country_state_672
+Brass,Bayelsa,__export__.res_country_state_651
+Buji,Jigawa,__export__.res_country_state_663
+Bukkuyum,Zamfara,__export__.res_country_state_682
+Buruku,Benue,__export__.res_country_state_652
+Bungudu,Zamfara,__export__.res_country_state_682
+Bunkure,Kano,__export__.res_country_state_665
+Bunza,Kebbi,__export__.res_country_state_667
+Burutu,Delta,__export__.res_country_state_655
+Bwari,FCT,__export__.res_country_state_660
+Calabar Municipal,Cross River,__export__.res_country_state_654
+Calabar South,Cross River,__export__.res_country_state_654
+Chanchaga,Niger,__export__.res_country_state_672
+Charanchi,Katsina,__export__.res_country_state_666
+Chibok,Borno,__export__.res_country_state_653
+Chikun,Kaduna,__export__.res_country_state_664
+Dala,Kano,__export__.res_country_state_665
+Damaturu,Yobe,__export__.res_country_state_681
+Damban,Bauchi,__export__.res_country_state_650
+Dambatta,Kano,__export__.res_country_state_665
+Damboa,Borno,__export__.res_country_state_653
+Dandi,Kebbi,__export__.res_country_state_667
+Dandume,Katsina,__export__.res_country_state_666
+Dange Shuni,Sokoto,__export__.res_country_state_679
+Danja,Katsina,__export__.res_country_state_666
+Dan Musa,Katsina,__export__.res_country_state_666
+Darazo,Bauchi,__export__.res_country_state_650
+Dass,Bauchi,__export__.res_country_state_650
+Daura,Katsina,__export__.res_country_state_666
+Dawakin Kudu,Kano,__export__.res_country_state_665
+Dawakin Tofa,Kano,__export__.res_country_state_665
+Degema,Rivers,__export__.res_country_state_678
+Dekina,Kogi,__export__.res_country_state_668
+Demsa,Adamawa,__export__.res_country_state_647
+Dikwa,Borno,__export__.res_country_state_653
+Doguwa,Kano,__export__.res_country_state_665
+Doma,Nasarawa,__export__.res_country_state_671
+Donga,Taraba,__export__.res_country_state_680
+Dukku,Gombe,__export__.res_country_state_661
+Dunukofia,Anambra,__export__.res_country_state_649
+Dutse,Jigawa,__export__.res_country_state_663
+Dutsi,Katsina,__export__.res_country_state_666
+Dutsin Ma,Katsina,__export__.res_country_state_666
+Eastern Obolo,Akwa Ibom,__export__.res_country_state_648
+Ebonyi,Ebonyi,__export__.res_country_state_656
+Edati,Niger,__export__.res_country_state_672
+Ede North,Osun,__export__.res_country_state_675
+Ede South,Osun,__export__.res_country_state_675
+Edu,Kwara,__export__.res_country_state_669
+Ife Central,Osun,__export__.res_country_state_675
+Ife East,Osun,__export__.res_country_state_675
+Ife North,Osun,__export__.res_country_state_675
+Ife South,Osun,__export__.res_country_state_675
+Efon,Ekiti,__export__.res_country_state_658
+Egbado North,Ogun,__export__.res_country_state_673
+Egbado South,Ogun,__export__.res_country_state_673
+Egbeda,Oyo,__export__.res_country_state_676
+Egbedore,Osun,__export__.res_country_state_675
+Egor,Edo,__export__.res_country_state_657
+Ehime Mbano,Imo,__export__.res_country_state_662
+Ejigbo,Osun,__export__.res_country_state_675
+Ekeremor,Bayelsa,__export__.res_country_state_651
+Eket,Akwa Ibom,__export__.res_country_state_648
+Ekiti,Kwara,__export__.res_country_state_669
+Ekiti East,Ekiti,__export__.res_country_state_658
+Ekiti South-West,Ekiti,__export__.res_country_state_658
+Ekiti West,Ekiti,__export__.res_country_state_658
+Ekwusigo,Anambra,__export__.res_country_state_649
+Eleme,Rivers,__export__.res_country_state_678
+Emuoha,Rivers,__export__.res_country_state_678
+Emure,Ekiti,__export__.res_country_state_658
+Enugu East,Enugu,__export__.res_country_state_659
+Enugu North,Enugu,__export__.res_country_state_659
+Enugu South,Enugu,__export__.res_country_state_659
+Epe,Lagos,__export__.res_country_state_670
+Esan Central,Edo,__export__.res_country_state_657
+Esan North-East,Edo,__export__.res_country_state_657
+Esan South-East,Edo,__export__.res_country_state_657
+Esan West,Edo,__export__.res_country_state_657
+Ese Odo,Ondo,__export__.res_country_state_674
+Esit Eket,Akwa Ibom,__export__.res_country_state_648
+Essien Udim,Akwa Ibom,__export__.res_country_state_648
+Etche,Rivers,__export__.res_country_state_678
+Ethiope East,Delta,__export__.res_country_state_655
+Ethiope West,Delta,__export__.res_country_state_655
+Etim Ekpo,Akwa Ibom,__export__.res_country_state_648
+Etinan,Akwa Ibom,__export__.res_country_state_648
+Eti Osa,Lagos,__export__.res_country_state_670
+Etsako Central,Edo,__export__.res_country_state_657
+Etsako East,Edo,__export__.res_country_state_657
+Etsako West,Edo,__export__.res_country_state_657
+Etung,Cross River,__export__.res_country_state_654
+Ewekoro,Ogun,__export__.res_country_state_673
+Ezeagu,Enugu,__export__.res_country_state_659
+Ezinihitte,Imo,__export__.res_country_state_662
+Ezza North,Ebonyi,__export__.res_country_state_656
+Ezza South,Ebonyi,__export__.res_country_state_656
+Fagge,Kano,__export__.res_country_state_665
+Fakai,Kebbi,__export__.res_country_state_667
+Faskari,Katsina,__export__.res_country_state_666
+Fika,Yobe,__export__.res_country_state_681
+Fufure,Adamawa,__export__.res_country_state_647
+Funakaye,Gombe,__export__.res_country_state_661
+Fune,Yobe,__export__.res_country_state_681
+Funtua,Katsina,__export__.res_country_state_666
+Gabasawa,Kano,__export__.res_country_state_665
+Gada,Sokoto,__export__.res_country_state_679
+Gagarawa,Jigawa,__export__.res_country_state_663
+Gamawa,Bauchi,__export__.res_country_state_650
+Ganjuwa,Bauchi,__export__.res_country_state_650
+Ganye,Adamawa,__export__.res_country_state_647
+Garki,Jigawa,__export__.res_country_state_663
+Garko,Kano,__export__.res_country_state_665
+Garun Mallam,Kano,__export__.res_country_state_665
+Gashaka,Taraba,__export__.res_country_state_680
+Gassol,Taraba,__export__.res_country_state_680
+Gaya,Kano,__export__.res_country_state_665
+Gayuk,Adamawa,__export__.res_country_state_647
+Gezawa,Kano,__export__.res_country_state_665
+Gbako,Niger,__export__.res_country_state_672
+Gboko,Benue,__export__.res_country_state_652
+Gbonyin,Ekiti,__export__.res_country_state_658
+Geidam,Yobe,__export__.res_country_state_681
+Giade,Bauchi,__export__.res_country_state_650
+Giwa,Kaduna,__export__.res_country_state_664
+Gokana,Rivers,__export__.res_country_state_678
+Gombe,Gombe,__export__.res_country_state_661
+Gombi,Adamawa,__export__.res_country_state_647
+Goronyo,Sokoto,__export__.res_country_state_679
+Grie,Adamawa,__export__.res_country_state_647
+Gubio,Borno,__export__.res_country_state_653
+Gudu,Sokoto,__export__.res_country_state_679
+Gujba,Yobe,__export__.res_country_state_681
+Gulani,Yobe,__export__.res_country_state_681
+Guma,Benue,__export__.res_country_state_652
+Gumel,Jigawa,__export__.res_country_state_663
+Gummi,Zamfara,__export__.res_country_state_682
+Gurara,Niger,__export__.res_country_state_672
+Guri,Jigawa,__export__.res_country_state_663
+Gusau,Zamfara,__export__.res_country_state_682
+Guzamala,Borno,__export__.res_country_state_653
+Gwadabawa,Sokoto,__export__.res_country_state_679
+Gwagwalada,FCT,__export__.res_country_state_660
+Gwale,Kano,__export__.res_country_state_665
+Gwandu,Kebbi,__export__.res_country_state_667
+Gwaram,Jigawa,__export__.res_country_state_663
+Gwarzo,Kano,__export__.res_country_state_665
+Gwer East,Benue,__export__.res_country_state_652
+Gwer West,Benue,__export__.res_country_state_652
+Gwiwa,Jigawa,__export__.res_country_state_663
+Gwoza,Borno,__export__.res_country_state_653
+Hadejia,Jigawa,__export__.res_country_state_663
+Hawul,Borno,__export__.res_country_state_653
+Hong,Adamawa,__export__.res_country_state_647
+Ibadan North,Oyo,__export__.res_country_state_676
+Ibadan North-East,Oyo,__export__.res_country_state_676
+Ibadan North-West,Oyo,__export__.res_country_state_676
+Ibadan South-East,Oyo,__export__.res_country_state_676
+Ibadan South-West,Oyo,__export__.res_country_state_676
+Ibaji,Kogi,__export__.res_country_state_668
+Ibarapa Central,Oyo,__export__.res_country_state_676
+Ibarapa East,Oyo,__export__.res_country_state_676
+Ibarapa North,Oyo,__export__.res_country_state_676
+Ibeju-Lekki,Lagos,__export__.res_country_state_670
+Ibeno,Akwa Ibom,__export__.res_country_state_648
+Ibesikpo Asutan,Akwa Ibom,__export__.res_country_state_648
+Ibi,Taraba,__export__.res_country_state_680
+Ibiono-Ibom,Akwa Ibom,__export__.res_country_state_648
+Idah,Kogi,__export__.res_country_state_668
+Idanre,Ondo,__export__.res_country_state_674
+Ideato North,Imo,__export__.res_country_state_662
+Ideato South,Imo,__export__.res_country_state_662
+Idemili North,Anambra,__export__.res_country_state_649
+Idemili South,Anambra,__export__.res_country_state_649
+Ido,Oyo,__export__.res_country_state_676
+Ido Osi,Ekiti,__export__.res_country_state_658
+Ifako-Ijaiye,Lagos,__export__.res_country_state_670
+Ifedayo,Osun,__export__.res_country_state_675
+Ifedore,Ondo,__export__.res_country_state_674
+Ifelodun,Kwara,__export__.res_country_state_669
+Ifelodun,Osun,__export__.res_country_state_675
+Ifo,Ogun,__export__.res_country_state_673
+Igabi,Kaduna,__export__.res_country_state_664
+Igalamela Odolu,Kogi,__export__.res_country_state_668
+Igbo Etiti,Enugu,__export__.res_country_state_659
+Igbo Eze North,Enugu,__export__.res_country_state_659
+Igbo Eze South,Enugu,__export__.res_country_state_659
+Igueben,Edo,__export__.res_country_state_657
+Ihiala,Anambra,__export__.res_country_state_649
+Ihitte/Uboma,Imo,__export__.res_country_state_662
+Ilaje,Ondo,__export__.res_country_state_674
+Ijebu East,Ogun,__export__.res_country_state_673
+Ijebu North,Ogun,__export__.res_country_state_673
+Ijebu North East,Ogun,__export__.res_country_state_673
+Ijebu Ode,Ogun,__export__.res_country_state_673
+Ijero,Ekiti,__export__.res_country_state_658
+Ijumu,Kogi,__export__.res_country_state_668
+Ika,Akwa Ibom,__export__.res_country_state_648
+Ika North East,Delta,__export__.res_country_state_655
+Ikara,Kaduna,__export__.res_country_state_664
+Ika South,Delta,__export__.res_country_state_655
+Ikeduru,Imo,__export__.res_country_state_662
+Ikeja,Lagos,__export__.res_country_state_670
+Ikenne,Ogun,__export__.res_country_state_673
+Ikere,Ekiti,__export__.res_country_state_658
+Ikole,Ekiti,__export__.res_country_state_658
+Ikom,Cross River,__export__.res_country_state_654
+Ikono,Akwa Ibom,__export__.res_country_state_648
+Ikorodu,Lagos,__export__.res_country_state_670
+Ikot Abasi,Akwa Ibom,__export__.res_country_state_648
+Ikot Ekpene,Akwa Ibom,__export__.res_country_state_648
+Ikpoba Okha,Edo,__export__.res_country_state_657
+Ikwerre,Rivers,__export__.res_country_state_678
+Ikwo,Ebonyi,__export__.res_country_state_656
+Ikwuano,Abia,__export__.res_country_state_646
+Ila,Osun,__export__.res_country_state_675
+Ilejemeje,Ekiti,__export__.res_country_state_658
+Ile Oluji/Okeigbo,Ondo,__export__.res_country_state_674
+Ilesa East,Osun,__export__.res_country_state_675
+Ilesa West,Osun,__export__.res_country_state_675
+Illela,Sokoto,__export__.res_country_state_679
+Ilorin East,Kwara,__export__.res_country_state_669
+Ilorin South,Kwara,__export__.res_country_state_669
+Ilorin West,Kwara,__export__.res_country_state_669
+Imeko Afon,Ogun,__export__.res_country_state_673
+Ingawa,Katsina,__export__.res_country_state_666
+Ini,Akwa Ibom,__export__.res_country_state_648
+Ipokia,Ogun,__export__.res_country_state_673
+Irele,Ondo,__export__.res_country_state_674
+Irepo,Oyo,__export__.res_country_state_676
+Irepodun,Kwara,__export__.res_country_state_669
+Irepodun,Osun,__export__.res_country_state_675
+Irepodun/Ifelodun,Ekiti,__export__.res_country_state_658
+Irewole,Osun,__export__.res_country_state_675
+Isa,Sokoto,__export__.res_country_state_679
+Ise/Orun,Ekiti,__export__.res_country_state_658
+Iseyin,Oyo,__export__.res_country_state_676
+Ishielu,Ebonyi,__export__.res_country_state_656
+Isiala Mbano,Imo,__export__.res_country_state_662
+Isiala Ngwa North,Abia,__export__.res_country_state_646
+Isiala Ngwa South,Abia,__export__.res_country_state_646
+Isin,Kwara,__export__.res_country_state_669
+Isi Uzo,Enugu,__export__.res_country_state_659
+Isokan,Osun,__export__.res_country_state_675
+Isoko North,Delta,__export__.res_country_state_655
+Isoko South,Delta,__export__.res_country_state_655
+Isu,Imo,__export__.res_country_state_662
+Isuikwuato,Abia,__export__.res_country_state_646
+Itas/Gadau,Bauchi,__export__.res_country_state_650
+Itesiwaju,Oyo,__export__.res_country_state_676
+Itu,Akwa Ibom,__export__.res_country_state_648
+Ivo,Ebonyi,__export__.res_country_state_656
+Iwajowa,Oyo,__export__.res_country_state_676
+Iwo,Osun,__export__.res_country_state_675
+Izzi,Ebonyi,__export__.res_country_state_656
+Jaba,Kaduna,__export__.res_country_state_664
+Jada,Adamawa,__export__.res_country_state_647
+Jahun,Jigawa,__export__.res_country_state_663
+Jakusko,Yobe,__export__.res_country_state_681
+Jalingo,Taraba,__export__.res_country_state_680
+Jama'are,Bauchi,__export__.res_country_state_650
+Jega,Kebbi,__export__.res_country_state_667
+Jema'a,Kaduna,__export__.res_country_state_664
+Jere,Borno,__export__.res_country_state_653
+Jibia,Katsina,__export__.res_country_state_666
+Jos East,Plateau,__export__.res_country_state_677
+Jos North,Plateau,__export__.res_country_state_677
+Jos South,Plateau,__export__.res_country_state_677
+Kabba/Bunu,Kogi,__export__.res_country_state_668
+Kabo,Kano,__export__.res_country_state_665
+Kachia,Kaduna,__export__.res_country_state_664
+Kaduna North,Kaduna,__export__.res_country_state_664
+Kaduna South,Kaduna,__export__.res_country_state_664
+Kafin Hausa,Jigawa,__export__.res_country_state_663
+Kafur,Katsina,__export__.res_country_state_666
+Kaga,Borno,__export__.res_country_state_653
+Kagarko,Kaduna,__export__.res_country_state_664
+Kaiama,Kwara,__export__.res_country_state_669
+Kaita,Katsina,__export__.res_country_state_666
+Kajola,Oyo,__export__.res_country_state_676
+Kajuru,Kaduna,__export__.res_country_state_664
+Kala/Balge,Borno,__export__.res_country_state_653
+Kalgo,Kebbi,__export__.res_country_state_667
+Kaltungo,Gombe,__export__.res_country_state_661
+Kanam,Plateau,__export__.res_country_state_677
+Kankara,Katsina,__export__.res_country_state_666
+Kanke,Plateau,__export__.res_country_state_677
+Kankia,Katsina,__export__.res_country_state_666
+Kano Municipal,Kano,__export__.res_country_state_665
+Karasuwa,Yobe,__export__.res_country_state_681
+Karaye,Kano,__export__.res_country_state_665
+Karim Lamido,Taraba,__export__.res_country_state_680
+Karu,Nasarawa,__export__.res_country_state_671
+Katagum,Bauchi,__export__.res_country_state_650
+Katcha,Niger,__export__.res_country_state_672
+Katsina,Katsina,__export__.res_country_state_666
+Katsina-Ala,Benue,__export__.res_country_state_652
+Kaura,Kaduna,__export__.res_country_state_664
+Kaura Namoda,Zamfara,__export__.res_country_state_682
+Kauru,Kaduna,__export__.res_country_state_664
+Kazaure,Jigawa,__export__.res_country_state_663
+Keana,Nasarawa,__export__.res_country_state_671
+Kebbe,Sokoto,__export__.res_country_state_679
+Keffi,Nasarawa,__export__.res_country_state_671
+Khana,Rivers,__export__.res_country_state_678
+Kibiya,Kano,__export__.res_country_state_665
+Kirfi,Bauchi,__export__.res_country_state_650
+Kiri Kasama,Jigawa,__export__.res_country_state_663
+Kiru,Kano,__export__.res_country_state_665
+Kiyawa,Jigawa,__export__.res_country_state_663
+Kogi,Kogi,__export__.res_country_state_668
+Koko/Besse,Kebbi,__export__.res_country_state_667
+Kokona,Nasarawa,__export__.res_country_state_671
+Kolokuma/Opokuma,Bayelsa,__export__.res_country_state_651
+Konduga,Borno,__export__.res_country_state_653
+Konshisha,Benue,__export__.res_country_state_652
+Kontagora,Niger,__export__.res_country_state_672
+Kosofe,Lagos,__export__.res_country_state_670
+Kaugama,Jigawa,__export__.res_country_state_663
+Kubau,Kaduna,__export__.res_country_state_664
+Kudan,Kaduna,__export__.res_country_state_664
+Kuje,FCT,__export__.res_country_state_660
+Kukawa,Borno,__export__.res_country_state_653
+Kumbotso,Kano,__export__.res_country_state_665
+Kumi,Taraba,__export__.res_country_state_680
+Kunchi,Kano,__export__.res_country_state_665
+Kura,Kano,__export__.res_country_state_665
+Kurfi,Katsina,__export__.res_country_state_666
+Kusada,Katsina,__export__.res_country_state_666
+Kwali,FCT,__export__.res_country_state_660
+Kwande,Benue,__export__.res_country_state_652
+Kwami,Gombe,__export__.res_country_state_661
+Kware,Sokoto,__export__.res_country_state_679
+Kwaya Kusar,Borno,__export__.res_country_state_653
+Lafia,Nasarawa,__export__.res_country_state_671
+Lagelu,Oyo,__export__.res_country_state_676
+Lagos Island,Lagos,__export__.res_country_state_670
+Lagos Mainland,Lagos,__export__.res_country_state_670
+Langtang South,Plateau,__export__.res_country_state_677
+Langtang North,Plateau,__export__.res_country_state_677
+Lapai,Niger,__export__.res_country_state_672
+Lamurde,Adamawa,__export__.res_country_state_647
+Lau,Taraba,__export__.res_country_state_680
+Lavun,Niger,__export__.res_country_state_672
+Lere,Kaduna,__export__.res_country_state_664
+Logo,Benue,__export__.res_country_state_652
+Lokoja,Kogi,__export__.res_country_state_668
+Machina,Yobe,__export__.res_country_state_681
+Madagali,Adamawa,__export__.res_country_state_647
+Madobi,Kano,__export__.res_country_state_665
+Mafa,Borno,__export__.res_country_state_653
+Magama,Niger,__export__.res_country_state_672
+Magumeri,Borno,__export__.res_country_state_653
+Mai'Adua,Katsina,__export__.res_country_state_666
+Maiduguri,Borno,__export__.res_country_state_653
+Maigatari,Jigawa,__export__.res_country_state_663
+Maiha,Adamawa,__export__.res_country_state_647
+Maiyama,Kebbi,__export__.res_country_state_667
+Makarfi,Kaduna,__export__.res_country_state_664
+Makoda,Kano,__export__.res_country_state_665
+Malam Madori,Jigawa,__export__.res_country_state_663
+Malumfashi,Katsina,__export__.res_country_state_666
+Mangu,Plateau,__export__.res_country_state_677
+Mani,Katsina,__export__.res_country_state_666
+Maradun,Zamfara,__export__.res_country_state_682
+Mariga,Niger,__export__.res_country_state_672
+Makurdi,Benue,__export__.res_country_state_652
+Marte,Borno,__export__.res_country_state_653
+Maru,Zamfara,__export__.res_country_state_682
+Mashegu,Niger,__export__.res_country_state_672
+Mashi,Katsina,__export__.res_country_state_666
+Matazu,Katsina,__export__.res_country_state_666
+Mayo Belwa,Adamawa,__export__.res_country_state_647
+Mbaitoli,Imo,__export__.res_country_state_662
+Mbo,Akwa Ibom,__export__.res_country_state_648
+Michika,Adamawa,__export__.res_country_state_647
+Miga,Jigawa,__export__.res_country_state_663
+Mikang,Plateau,__export__.res_country_state_677
+Minjibir,Kano,__export__.res_country_state_665
+Misau,Bauchi,__export__.res_country_state_650
+Moba,Ekiti,__export__.res_country_state_658
+Mobbar,Borno,__export__.res_country_state_653
+Mubi North,Adamawa,__export__.res_country_state_647
+Mubi South,Adamawa,__export__.res_country_state_647
+Mokwa,Niger,__export__.res_country_state_672
+Monguno,Borno,__export__.res_country_state_653
+Mopa Muro,Kogi,__export__.res_country_state_668
+Moro,Kwara,__export__.res_country_state_669
+Moya,Niger,__export__.res_country_state_672
+Mkpat-Enin,Akwa Ibom,__export__.res_country_state_648
+Municipal Area Council,FCT,__export__.res_country_state_660
+Musawa,Katsina,__export__.res_country_state_666
+Mushin,Lagos,__export__.res_country_state_670
+Nafada,Gombe,__export__.res_country_state_661
+Nangere,Yobe,__export__.res_country_state_681
+Nasarawa,Kano,__export__.res_country_state_665
+Nasarawa,Nasarawa,__export__.res_country_state_671
+Nasarawa Egon,Nasarawa,__export__.res_country_state_671
+Ndokwa East,Delta,__export__.res_country_state_655
+Ndokwa West,Delta,__export__.res_country_state_655
+Nembe,Bayelsa,__export__.res_country_state_651
+Ngala,Borno,__export__.res_country_state_653
+Nganzai,Borno,__export__.res_country_state_653
+Ngaski,Kebbi,__export__.res_country_state_667
+Ngor Okpala,Imo,__export__.res_country_state_662
+Nguru,Yobe,__export__.res_country_state_681
+Ningi,Bauchi,__export__.res_country_state_650
+Njaba,Imo,__export__.res_country_state_662
+Njikoka,Anambra,__export__.res_country_state_649
+Nkanu East,Enugu,__export__.res_country_state_659
+Nkanu West,Enugu,__export__.res_country_state_659
+Nkwerre,Imo,__export__.res_country_state_662
+Nnewi North,Anambra,__export__.res_country_state_649
+Nnewi South,Anambra,__export__.res_country_state_649
+Nsit-Atai,Akwa Ibom,__export__.res_country_state_648
+Nsit-Ibom,Akwa Ibom,__export__.res_country_state_648
+Nsit-Ubium,Akwa Ibom,__export__.res_country_state_648
+Nsukka,Enugu,__export__.res_country_state_659
+Numan,Adamawa,__export__.res_country_state_647
+Nwangele,Imo,__export__.res_country_state_662
+Obafemi Owode,Ogun,__export__.res_country_state_673
+Obanliku,Cross River,__export__.res_country_state_654
+Obi,Benue,__export__.res_country_state_652
+Obi,Nasarawa,__export__.res_country_state_671
+Obi Ngwa,Abia,__export__.res_country_state_646
+Obio/Akpor,Rivers,__export__.res_country_state_678
+Obokun,Osun,__export__.res_country_state_675
+Obot Akara,Akwa Ibom,__export__.res_country_state_648
+Obowo,Imo,__export__.res_country_state_662
+Obubra,Cross River,__export__.res_country_state_654
+Obudu,Cross River,__export__.res_country_state_654
+Odeda,Ogun,__export__.res_country_state_673
+Odigbo,Ondo,__export__.res_country_state_674
+Odogbolu,Ogun,__export__.res_country_state_673
+Odo Otin,Osun,__export__.res_country_state_675
+Odukpani,Cross River,__export__.res_country_state_654
+Offa,Kwara,__export__.res_country_state_669
+Ofu,Kogi,__export__.res_country_state_668
+Ogba/Egbema/Ndoni,Rivers,__export__.res_country_state_678
+Ogbadibo,Benue,__export__.res_country_state_652
+Ogbaru,Anambra,__export__.res_country_state_649
+Ogbia,Bayelsa,__export__.res_country_state_651
+Ogbomosho North,Oyo,__export__.res_country_state_676
+Ogbomosho South,Oyo,__export__.res_country_state_676
+Ogu/Bolo,Rivers,__export__.res_country_state_678
+Ogoja,Cross River,__export__.res_country_state_654
+Ogo Oluwa,Oyo,__export__.res_country_state_676
+Ogori/Magongo,Kogi,__export__.res_country_state_668
+Ogun Waterside,Ogun,__export__.res_country_state_673
+Oguta,Imo,__export__.res_country_state_662
+Ohafia,Abia,__export__.res_country_state_646
+Ohaji/Egbema,Imo,__export__.res_country_state_662
+Ohaozara,Ebonyi,__export__.res_country_state_656
+Ohaukwu,Ebonyi,__export__.res_country_state_656
+Ohimini,Benue,__export__.res_country_state_652
+Orhionmwon,Edo,__export__.res_country_state_657
+Oji River,Enugu,__export__.res_country_state_659
+Ojo,Lagos,__export__.res_country_state_670
+Oju,Benue,__export__.res_country_state_652
+Okehi,Kogi,__export__.res_country_state_668
+Okene,Kogi,__export__.res_country_state_668
+Oke Ero,Kwara,__export__.res_country_state_669
+Okigwe,Imo,__export__.res_country_state_662
+Okitipupa,Ondo,__export__.res_country_state_674
+Okobo,Akwa Ibom,__export__.res_country_state_648
+Okpe,Delta,__export__.res_country_state_655
+Okrika,Rivers,__export__.res_country_state_678
+Olamaboro,Kogi,__export__.res_country_state_668
+Ola Oluwa,Osun,__export__.res_country_state_675
+Olorunda,Osun,__export__.res_country_state_675
+Olorunsogo,Oyo,__export__.res_country_state_676
+Oluyole,Oyo,__export__.res_country_state_676
+Omala,Kogi,__export__.res_country_state_668
+Omuma,Rivers,__export__.res_country_state_678
+Ona Ara,Oyo,__export__.res_country_state_676
+Ondo East,Ondo,__export__.res_country_state_674
+Ondo West,Ondo,__export__.res_country_state_674
+Onicha,Ebonyi,__export__.res_country_state_656
+Onitsha North,Anambra,__export__.res_country_state_649
+Onitsha South,Anambra,__export__.res_country_state_649
+Onna,Akwa Ibom,__export__.res_country_state_648
+Okpokwu,Benue,__export__.res_country_state_652
+Opobo/Nkoro,Rivers,__export__.res_country_state_678
+Oredo,Edo,__export__.res_country_state_657
+Orelope,Oyo,__export__.res_country_state_676
+Oriade,Osun,__export__.res_country_state_675
+Ori Ire,Oyo,__export__.res_country_state_676
+Orlu,Imo,__export__.res_country_state_662
+Orolu,Osun,__export__.res_country_state_675
+Oron,Akwa Ibom,__export__.res_country_state_648
+Orsu,Imo,__export__.res_country_state_662
+Oru East,Imo,__export__.res_country_state_662
+Oruk Anam,Akwa Ibom,__export__.res_country_state_648
+Orumba North,Anambra,__export__.res_country_state_649
+Orumba South,Anambra,__export__.res_country_state_649
+Oru West,Imo,__export__.res_country_state_662
+Ose,Ondo,__export__.res_country_state_674
+Oshimili North,Delta,__export__.res_country_state_655
+Oshimili South,Delta,__export__.res_country_state_655
+Oshodi-Isolo,Lagos,__export__.res_country_state_670
+Osisioma,Abia,__export__.res_country_state_646
+Osogbo,Osun,__export__.res_country_state_675
+Oturkpo,Benue,__export__.res_country_state_652
+Ovia North-East,Edo,__export__.res_country_state_657
+Ovia South-West,Edo,__export__.res_country_state_657
+Owan East,Edo,__export__.res_country_state_657
+Owan West,Edo,__export__.res_country_state_657
+Owerri Municipal,Imo,__export__.res_country_state_662
+Owerri North,Imo,__export__.res_country_state_662
+Owerri West,Imo,__export__.res_country_state_662
+Owo,Ondo,__export__.res_country_state_674
+Oye,Ekiti,__export__.res_country_state_658
+Oyi,Anambra,__export__.res_country_state_649
+Oyigbo,Rivers,__export__.res_country_state_678
+Oyo,Oyo,__export__.res_country_state_676
+Oyo East,Oyo,__export__.res_country_state_676
+Oyun,Kwara,__export__.res_country_state_669
+Paikoro,Niger,__export__.res_country_state_672
+Pankshin,Plateau,__export__.res_country_state_677
+Patani,Delta,__export__.res_country_state_655
+Pategi,Kwara,__export__.res_country_state_669
+Port Harcourt,Rivers,__export__.res_country_state_678
+Potiskum,Yobe,__export__.res_country_state_681
+Qua'an Pan,Plateau,__export__.res_country_state_677
+Rabah,Sokoto,__export__.res_country_state_679
+Rafi,Niger,__export__.res_country_state_672
+Rano,Kano,__export__.res_country_state_665
+Remo North,Ogun,__export__.res_country_state_673
+Rijau,Niger,__export__.res_country_state_672
+Rimi,Katsina,__export__.res_country_state_666
+Rimin Gado,Kano,__export__.res_country_state_665
+Ringim,Jigawa,__export__.res_country_state_663
+Riyom,Plateau,__export__.res_country_state_677
+Rogo,Kano,__export__.res_country_state_665
+Roni,Jigawa,__export__.res_country_state_663
+Sabon Birni,Sokoto,__export__.res_country_state_679
+Sabon Gari,Kaduna,__export__.res_country_state_664
+Sabuwa,Katsina,__export__.res_country_state_666
+Safana,Katsina,__export__.res_country_state_666
+Sagbama,Bayelsa,__export__.res_country_state_651
+Sakaba,Kebbi,__export__.res_country_state_667
+Saki East,Oyo,__export__.res_country_state_676
+Saki West,Oyo,__export__.res_country_state_676
+Sandamu,Katsina,__export__.res_country_state_666
+Sanga,Kaduna,__export__.res_country_state_664
+Sapele,Delta,__export__.res_country_state_655
+Sardauna,Taraba,__export__.res_country_state_680
+Shagamu,Ogun,__export__.res_country_state_673
+Shagari,Sokoto,__export__.res_country_state_679
+Shanga,Kebbi,__export__.res_country_state_667
+Shani,Borno,__export__.res_country_state_653
+Shanono,Kano,__export__.res_country_state_665
+Shelleng,Adamawa,__export__.res_country_state_647
+Shendam,Plateau,__export__.res_country_state_677
+Shinkafi,Zamfara,__export__.res_country_state_682
+Shira,Bauchi,__export__.res_country_state_650
+Shiroro,Niger,__export__.res_country_state_672
+Shongom,Gombe,__export__.res_country_state_661
+Shomolu,Lagos,__export__.res_country_state_670
+Silame,Sokoto,__export__.res_country_state_679
+Soba,Kaduna,__export__.res_country_state_664
+Sokoto North,Sokoto,__export__.res_country_state_679
+Sokoto South,Sokoto,__export__.res_country_state_679
+Song,Adamawa,__export__.res_country_state_647
+Southern Ijaw,Bayelsa,__export__.res_country_state_651
+Suleja,Niger,__export__.res_country_state_672
+Sule Tankarkar,Jigawa,__export__.res_country_state_663
+Sumaila,Kano,__export__.res_country_state_665
+Suru,Kebbi,__export__.res_country_state_667
+Surulere,Oyo,__export__.res_country_state_676
+Surulere,Lagos,__export__.res_country_state_670
+Tafa,Niger,__export__.res_country_state_672
+Tafawa Balewa,Bauchi,__export__.res_country_state_650
+Tai,Rivers,__export__.res_country_state_678
+Takai,Kano,__export__.res_country_state_665
+Takum,Taraba,__export__.res_country_state_680
+Talata Mafara,Zamfara,__export__.res_country_state_682
+Tambuwal,Sokoto,__export__.res_country_state_679
+Tangaza,Sokoto,__export__.res_country_state_679
+Tarauni,Kano,__export__.res_country_state_665
+Tarka,Benue,__export__.res_country_state_652
+Tarmuwa,Yobe,__export__.res_country_state_681
+Taura,Jigawa,__export__.res_country_state_663
+Toungo,Adamawa,__export__.res_country_state_647
+Tofa,Kano,__export__.res_country_state_665
+Toro,Bauchi,__export__.res_country_state_650
+Toto,Nasarawa,__export__.res_country_state_671
+Chafe,Zamfara,__export__.res_country_state_682
+Tsanyawa,Kano,__export__.res_country_state_665
+Tudun Wada,Kano,__export__.res_country_state_665
+Tureta,Sokoto,__export__.res_country_state_679
+Udenu,Enugu,__export__.res_country_state_659
+Udi,Enugu,__export__.res_country_state_659
+Udu,Delta,__export__.res_country_state_655
+Udung-Uko,Akwa Ibom,__export__.res_country_state_648
+Ughelli North,Delta,__export__.res_country_state_655
+Ughelli South,Delta,__export__.res_country_state_655
+Ugwunagbo,Abia,__export__.res_country_state_646
+Uhunmwonde,Edo,__export__.res_country_state_657
+Ukanafun,Akwa Ibom,__export__.res_country_state_648
+Ukum,Benue,__export__.res_country_state_652
+Ukwa East,Abia,__export__.res_country_state_646
+Ukwa West,Abia,__export__.res_country_state_646
+Ukwuani,Delta,__export__.res_country_state_655
+Umuahia North,Abia,__export__.res_country_state_646
+Umuahia South,Abia,__export__.res_country_state_646
+Umu Nneochi,Abia,__export__.res_country_state_646
+Ungogo,Kano,__export__.res_country_state_665
+Unuimo,Imo,__export__.res_country_state_662
+Uruan,Akwa Ibom,__export__.res_country_state_648
+Urue-Offong/Oruko,Akwa Ibom,__export__.res_country_state_648
+Ushongo,Benue,__export__.res_country_state_652
+Ussa,Taraba,__export__.res_country_state_680
+Uvwie,Delta,__export__.res_country_state_655
+Uyo,Akwa Ibom,__export__.res_country_state_648
+Uzo Uwani,Enugu,__export__.res_country_state_659
+Vandeikya,Benue,__export__.res_country_state_652
+Wamako,Sokoto,__export__.res_country_state_679
+Wamba,Nasarawa,__export__.res_country_state_671
+Warawa,Kano,__export__.res_country_state_665
+Warji,Bauchi,__export__.res_country_state_650
+Warri North,Delta,__export__.res_country_state_655
+Warri South,Delta,__export__.res_country_state_655
+Warri South West,Delta,__export__.res_country_state_655
+Wasagu/Danko,Kebbi,__export__.res_country_state_667
+Wase,Plateau,__export__.res_country_state_677
+Wudil,Kano,__export__.res_country_state_665
+Wukari,Taraba,__export__.res_country_state_680
+Wurno,Sokoto,__export__.res_country_state_679
+Wushishi,Niger,__export__.res_country_state_672
+Yabo,Sokoto,__export__.res_country_state_679
+Yagba East,Kogi,__export__.res_country_state_668
+Yagba West,Kogi,__export__.res_country_state_668
+Yakuur,Cross River,__export__.res_country_state_654
+Yala,Cross River,__export__.res_country_state_654
+Yamaltu/Deba,Gombe,__export__.res_country_state_661
+Yankwashi,Jigawa,__export__.res_country_state_663
+Yauri,Kebbi,__export__.res_country_state_667
+Yenagoa,Bayelsa,__export__.res_country_state_651
+Yola North,Adamawa,__export__.res_country_state_647
+Yola South,Adamawa,__export__.res_country_state_647
+Yorro,Taraba,__export__.res_country_state_680
+Yunusari,Yobe,__export__.res_country_state_681
+Yusufari,Yobe,__export__.res_country_state_681
+Zaki,Bauchi,__export__.res_country_state_650
+Zango,Katsina,__export__.res_country_state_666
+Zangon Kataf,Kaduna,__export__.res_country_state_664
+Zaria,Kaduna,__export__.res_country_state_664
+Zing,Taraba,__export__.res_country_state_680
+Zurmi,Zamfara,__export__.res_country_state_682
+Zuru,Kebbi,__export__.res_country_state_667
